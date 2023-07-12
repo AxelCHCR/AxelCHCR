@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying in Costa Rica Institute of Technology. I'm 19 years old and I'm a junior software developer.
+I'm a third-year computer engineering student at Costa Rica Institute of Technology. I'm 19 years old and I'm a junior software developer. 
 
 
 ## 🌐 Socials:
