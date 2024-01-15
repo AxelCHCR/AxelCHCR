@@ -1,5 +1,5 @@
 # 💫 About Me:
-Third-year computer engineering student at Costa Rica Institute of Technology. Highly motivated and enthusiastic junior full-stack developer with a passion for learning new technologies and solving problems. 
+Senior year computer engineering student at Costa Rica Institute of Technology. Highly motivated and enthusiastic junior full-stack developer with a passion for learning new technologies and solving problems. 
 Proficient in fundamentals as Object-oriented progrmaming, SOLID and GRASP principles, and data structures.
 Skilled in fullstack technologies as React, Angular, SQL, MongoDB, Python, Azure, Firebase among others.
 Experienced developing and deploying web applications, and I am skilled in problem-solving and debugging.
